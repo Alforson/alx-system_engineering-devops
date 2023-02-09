@@ -13,3 +13,7 @@
 12. Script which prints out the type of file.
 13. Script which creates a symbolic link.
 14. script that copies all the HTML files from the current working directory to the parent of the working directory.
+100. script that moves all files beginning with an uppercase letter to the directory
+101. script that deletes all files in the current working directory that end with the character ~
+102. script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+103. Script which lists all the files and directories of the current directory with specific criteria
